@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/songs/static/css/main.f3125603.css",
+    "main.js": "/songs/static/js/main.b0662404.js",
+    "static/js/787.d6aeb8b8.chunk.js": "/songs/static/js/787.d6aeb8b8.chunk.js",
+    "index.html": "/songs/index.html",
+    "main.f3125603.css.map": "/songs/static/css/main.f3125603.css.map",
+    "main.b0662404.js.map": "/songs/static/js/main.b0662404.js.map",
+    "787.d6aeb8b8.chunk.js.map": "/songs/static/js/787.d6aeb8b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3125603.css",
+    "static/js/main.b0662404.js"
+  ]
+}
